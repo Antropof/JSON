@@ -1,5 +1,7 @@
 {
-	"full_name":"Antropov Alexey Aleksandrovich",
+	"surname":"Antropov",
+	"name":"Alexey",
+	"patronymic":"Aleksandrovich",
 	"age":27,
 	"animals":1,
 	"salary":500
